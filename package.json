@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sqlitecloud/drivers": "^1.0.507",
+    "node-fetch": "^3.3.2"
+  }
+}
